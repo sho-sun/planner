@@ -37,6 +37,11 @@
  ・課題発見・解決力
 
 * DEMO
+![image](https://user-images.githubusercontent.com/61076624/83946819-1b783680-a84e-11ea-8c30-4339039b421c.png)
+![image](https://user-images.githubusercontent.com/61076624/83946856-64c88600-a84e-11ea-8f14-c28bec098746.png)
+![image](https://user-images.githubusercontent.com/61076624/83946866-701bb180-a84e-11ea-94d5-bb25dfbdf51b.png)
+![image](https://user-images.githubusercontent.com/61076624/83946875-79a51980-a84e-11ea-89bd-2249146dc6e1.png)
+![image](https://user-images.githubusercontent.com/61076624/83946881-7dd13700-a84e-11ea-9f99-7ecdc92d13a8.png)
 
 * 工夫したポイント
 　毎日予定を立てるだけで復習計画も立てられる点
