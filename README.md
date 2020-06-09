@@ -46,8 +46,10 @@ UIはシンプル、わかりやすさを重視
 毎日予定を立てるだけで復習計画も立てられる点
 
 ## 使用技術(開発環境)  
+ruby  
 ruby on rails  
-javascript
+javascript  
+jquery
 
 ## 課題や今後実装したい機能  
 復習予定機能(基本機能)  
