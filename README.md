@@ -30,16 +30,7 @@ UIはシンプル、わかりやすさを重視
 復習してもらうことを目的に設計⇒効率的に復習しようとすると発生する手間を省き、よりよい成果を出したいと思ったことが制作のきっかけ  
 
 ## DEMO
-1
-![image](https://user-images.githubusercontent.com/61076624/83946819-1b783680-a84e-11ea-8c30-4339039b421c.png)
-2
-![image](https://user-images.githubusercontent.com/61076624/83946856-64c88600-a84e-11ea-8f14-c28bec098746.png)
-3
-![image](https://user-images.githubusercontent.com/61076624/83946866-701bb180-a84e-11ea-94d5-bb25dfbdf51b.png)
-4
-![image](https://user-images.githubusercontent.com/61076624/83946875-79a51980-a84e-11ea-89bd-2249146dc6e1.png)
-5
-![image](https://user-images.githubusercontent.com/61076624/83946881-7dd13700-a84e-11ea-9f99-7ecdc92d13a8.png)
+
 
 ## 使用技術(開発環境)  
 ruby  
@@ -51,8 +42,14 @@ javaScript
 一番実装したい機能だが、時間との実力の都合上、未実装なので今後実装していきたい。  
 
 - 予定帳に直接記入する機能  
-調査で発見した類似アプリを使用した結果、予定帳と予定記入ページが別で画面遷移に使いにくさを感じたため、予定帳に直接記入する方式を取り入れたい  
+類似アプリを調査した結果、予定帳と予定記入ページが別で画面遷移に使いにくさを感じたため、予定帳に直接記入する方式を取り入れたい  
 
+## 今後目指したい形のDEMO
+1のように予定を入れると自動で2の様に反映させたい  
+1
+![image](https://user-images.githubusercontent.com/61076624/83946819-1b783680-a84e-11ea-8c30-4339039b421c.png)
+2
+![image](https://user-images.githubusercontent.com/61076624/83946856-64c88600-a84e-11ea-8f14-c28bec098746.png)
 
 ## DB設計
 
