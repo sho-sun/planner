@@ -63,4 +63,5 @@ javaScript
 |start_date|datetime|-------|
 |end_date|datetime|-------|
 |created_at|datetime|null: false|
+
 |updated_at|datetime|null: false|
