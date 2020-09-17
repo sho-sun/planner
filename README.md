@@ -65,4 +65,3 @@ javaScript
 |created_at|datetime|null: false|
 |updated_at|datetime|null: false|
 
-
